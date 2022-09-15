@@ -16,7 +16,7 @@ if __name__ == '__main__':
     name_input = input('Ready to play? Enter your name: ')
 
     print_hi(name_input)
-    dice_max = input('How many sides should the dice have? ')
+    dice_max = input('How many sides should each die have? ')
     die_1 = roll_dice(dice_max)
     die_2 = roll_dice(dice_max)
 
