@@ -1,11 +1,13 @@
 # Simulate Dice Roll
-# import modules
+# Import module
 import random
 
+# Greeting function
 def print_hi(player_name):
     # Greet player
     print(f'Hi, {player_name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
+# Roll 1 die function
 def roll_dice(max):
     max = int(max)
     return random.randint(1, max)
@@ -15,6 +17,7 @@ if __name__ == '__main__':
     # Get player's name
     name_input = input('Ready to play? Enter your name: ')
 
+    # Say hi and ask how many sides for a die
     print_hi(name_input)
     dice_max = input('How many sides should each die have? ')
     die_1 = roll_dice(dice_max)
