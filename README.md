@@ -1,3 +1,3 @@
 # dice-roll<br>
-## Simulate Dice Roll
+## Simulate dice roll
 ### Finished for now.
