@@ -1,3 +1,4 @@
 # dice-roll<br>
-## Simulate dice roll
-### Finished for now.
+#### What does: simulate dice roll
+#### Status: finsihed
+#### Future: web app
