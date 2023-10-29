@@ -1,3 +1,3 @@
 # dice-roll
-## Status: finished
-### Future: web app
+## Similates dice roll
+### Status: finished
