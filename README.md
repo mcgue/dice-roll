@@ -1,3 +1,3 @@
 # dice-roll
-## Similates dice roll
-### Status: finished
+Similates dice roll<br>
+Status: finished
