@@ -6,7 +6,7 @@ import random
 # Greeting function
 def print_hi(player_name):
     # Greet player
-    print(f'Hi, {player_name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi, {player_name}')
 
 # Roll 1 die function
 def roll_dice(max):
